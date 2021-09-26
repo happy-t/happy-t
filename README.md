@@ -1,10 +1,6 @@
-### Hi there 👋
-
-
-Hey There! I am Harsh Tripathi, a tech, cybersecurity enthusiast and an android developer, pursuing my B.Tech from Jabalpur Engineering College(JEC). 
-
 ### Hi there 👋, my name is Harsh
 #### I am a Student and a cybersecurity enthusiast.
+Hey There! I am Harsh Tripathi, a tech, cybersecurity enthusiast, and an android developer, pursuing my B.Tech from Jabalpur Engineering College(JEC)
 
 Skills: C++ / JAVA / PYTHON / XML / BASH
 
