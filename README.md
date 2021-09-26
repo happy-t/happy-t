@@ -1,6 +1,7 @@
-### Hi there 👋, my name is Harsh
+### Hi there 👋, I am Harsh
 #### I am a Student and a cybersecurity enthusiast.
-Hey There! I am Harsh Tripathi, a tech, cybersecurity enthusiast, and an android developer, pursuing my B.Tech from Jabalpur Engineering College(JEC)
+Hey There! I am Harsh Tripathi, a cybersecurity enthusiast, and an android developer, pursuing my B.Tech from Jabalpur Engineering College(JEC).
+Also I love Computer Networking and am always ready to learn something new in the corresponding field.
 
 Skills: C++ / JAVA / PYTHON / XML / BASH
 
@@ -14,4 +15,4 @@ Skills: C++ / JAVA / PYTHON / XML / BASH
 
 
 
-[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=happy-t&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happy-t&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=happy-t&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happy-t&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
