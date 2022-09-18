@@ -2,7 +2,7 @@
 #### I am a Student and a Cybersecurity Enthusiast.
 Hey There! I am Harsh Tripathi, a cybersecurity enthusiast, and an android developer, pursuing my B.Tech from Jabalpur Engineering College(JEC). Also I love Computer Networking and am always ready to learn something new in the corresponding field.
 
-Skills: C++ / JAVA / PYTHON / XML / BASH
+Skills: C++ / JAVA / PYTHON 
 
 - 🔭 I’m currently working on Linux Shell Clone 
 - 🌱 I’m currently learning Computer Networking 
