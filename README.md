@@ -1,10 +1,9 @@
 ### Hi there 👋, I am Harsh
-#### I am a Student and a Cybersecurity Enthusiast.
-Hey There! I am Harsh Tripathi, a cybersecurity enthusiast, and an android developer, pursuing my B.Tech from Jabalpur Engineering College(JEC). Also I love Computer Networking and am always ready to learn something new in the corresponding field.
+#### I am a AI and a Cybersecurity Enthusiast.
+Hey There! I am Harsh Tripathi, a cybersecurity enthusiast, and an AI developer, pursuing my SDE role in a popular MNC which I would skip here> Also I love Computer Networking and am always ready to learn something new in the corresponding field.
 
-Skills: C++ / JAVA / PYTHON 
+Skills: C++ / JAVA / PYTHON / AI 
 
-- 🔭 I’m currently working on Linux Shell Clone 
 - 🌱 I’m currently learning Computer Networking 
 - 📫 How to reach me: happyppytripathi@gmail.com 
 - ⚡ Fun fact: Kadane once said: Leave the past behind when it becomes a burden. 
